@@ -1,4 +1,4 @@
-# Add your page title and name here
+# Talha Amjad's Webpage
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
 A place for each deliverable has been created below for you in this markdown document. 
@@ -14,7 +14,7 @@ You're also asked to insert a photo that represents your accomplishments on your
 - Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
 - Then, insert your photo into your document by modifying the markdown example that has been inserted below.
 -->
-
+### I was hoping to start working on the boards today. However, the first day of the module was more of an introduction to GitHub and webpages. As a computer science student, I basically use GitHub daily and have created multiple websites in the past. After reading the module outline, I was already expecting the content to be an introduction to GitHub and webpages, so I decided to just work ahead of the class. I took this module hoping to learn a lot about the hardware aspects as I already have a background in programming. I have used languages like Java, python and Haskell and learned how to use GitHub on a more advanced level in my previous year. Furthermore, I have always wanted to program the Arduino boards so I can use it on 3D printed models like small cars or robots. However, I have been so busy with schoolwork that I barely found time to teach myself these skills. As a result, I am excited to work on the Arduino boards because this module will be the start of putting my skills into the hardware side of things. My friends and I have talked about future projects and I hope to have many creative ideas by the end of the module that will need these skills to be used. ###
 <!--
 Inserting an image takes the form: 
 ![image alt text](url/to/photo "Logo Title Text")
