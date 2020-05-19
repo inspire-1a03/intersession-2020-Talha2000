@@ -8,3 +8,5 @@ include:
 
 title: Talha Amjad's Webpage
 description: edit your description in /docs/_config.yml
+
+theme: jekyll-theme-midnight
