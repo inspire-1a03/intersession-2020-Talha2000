@@ -64,7 +64,7 @@ Features | Description | Other Notes
 **Potentiometer** | The potentiometer will be used as the dial. It changes the loudness or type of tone that goes off. | N/A
 **RGB LED** | The RGB LED is used as a way to gain attention. When the temperature is too high, it will flash between red and yellow while also hearing noises from the buzzer until the temperature is back to normal. When the temperature is normal, the color will become blue and the buzzer will stop. | N/A
 
-`if(temp>=28){
+`if(temp>=28){ \n
   setColor(255, 0, 0);
   tone(piezoPin, 1000, 500);
   delay(500);
