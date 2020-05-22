@@ -56,6 +56,7 @@ You can find more information at these links:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
 -->
+
 | Feature | Description | Other Notes |
 
 |Thermistor|  The thermistor is used to check the temperature of the room. In my design, it will be useful for when the temperature is too high                |     N/A     |
