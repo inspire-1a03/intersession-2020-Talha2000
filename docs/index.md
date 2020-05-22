@@ -57,12 +57,12 @@ You can find more information at these links:
 
 -->
 
-| Feature |                Description           |                     Other Notes                                  |
+|        Feature        |                Description           |             Other Notes           |
 
-|Thermistor|  The thermistor is used to check the temperature of the room. In my design, it will be useful for when the temperature is too high                |     N/A     |
-|Buzzer         | The buzzer will be the "Alarm clock" in this design. When the temperature is too high, it will start buzzing to alert people that there is danger          |    N/A         |
-|Potentiometer         |The potentiometer will be used as the dial. It changes the loudness or type of tone that goes off.         |       N/A      |
-|RGB LED         | The RGB LED is used as a way to gain attention. When the temperature is too high, it will flash between red and yellow while also hearing noises from the buzzer until the temperature is back to normal. When the temperature is normal, the color will become blue and the buzzer will stop.          |    N/A         |
+| Thermistor | The thermistor is used to check the temperature of the room. In my design, it will be useful for when the temperature is too high | N/A |
+| Buzzer | The buzzer will be the "Alarm clock" in this design. When the temperature is too high, it will start buzzing to alert people that there is danger | N/A |
+| Potentiometer | The potentiometer will be used as the dial. It changes the loudness or type of tone that goes off. | N/A |
+|RGB LED | The RGB LED is used as a way to gain attention. When the temperature is too high, it will flash between red and yellow while also hearing noises from the buzzer until the temperature is back to normal. When the temperature is normal, the color will become blue and the buzzer will stop. | N/A |
 
 
 <!--
