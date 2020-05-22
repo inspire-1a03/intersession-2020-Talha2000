@@ -57,6 +57,11 @@ You can find more information at these links:
 
 -->
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 |                                Feature        |                                                           Description           |                                   Other Notes           |
 
 | Thermistor | The thermistor is used to check the temperature of the room. In my design, it will be useful for when the temperature is too high | N/A |
