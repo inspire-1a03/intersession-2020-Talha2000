@@ -72,7 +72,7 @@ Features | Description | Other Notes
 }` 
 ### If the temperature is above 28, it will cause the LED to change colors and start the buzzer. ###
 
-### This device can be used for emergency situations where high temperatures can be a danger. It does have a function like the smoke alarm. However, instead of smoke, it will detect the temperature. ###
+### This device can be used for emergency situations where high temperatures can be a danger. It does have a function like a smoke detector. However, instead of smoke, it will detect the temperature. ###
 
 
 <!--
