@@ -57,7 +57,7 @@ You can find more information at these links:
 
 -->
 
-**Features** | **Description** | **Other Notes**
+Features | Description | Other Notes
 ------------ | ------------- | -------------
 **Thermistor** | The thermistor is used to check the temperature of the room. In my design, it will be useful for when the temperature is too high | N/A
 **Buzzer** | The buzzer will be the "Alarm clock" in this design. When the temperature is too high, it will start buzzing to alert people that there is danger | N/A
