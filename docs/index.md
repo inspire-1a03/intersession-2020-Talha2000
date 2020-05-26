@@ -66,12 +66,14 @@ Features | Description | Other Notes
 
 ### If the temperature is above 28, it will cause the LED to change colors and start the buzzer. ###
 
-``` if(temp>=28){
+```
+  if(temp>=28){
   setColor(255, 0, 0);
   tone(piezoPin, 1000, 500);
   delay(500);
   setColor(255, 255, 0);
-} ```
+} 
+```
 
 ### This device can be used for emergency situations where high temperatures can be a danger. It does have a function like a smoke detector. However, instead of smoke, it will detect the temperature. ###
 
