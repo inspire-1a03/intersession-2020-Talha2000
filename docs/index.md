@@ -67,12 +67,23 @@ Features | Description | Other Notes
 ### If the temperature is above 28, it will cause the LED to change colors and start the buzzer. ###
 
 ```
-  if(temp>=28){
-  setColor(255, 0, 0);
+  if(temp>29.5){
+  setColor(255, 0, 0);  // red
   tone(piezoPin, 1000, 500);
   delay(500);
-  setColor(255, 255, 0);
-} 
+  setColor(255, 255, 0); // change to yellow when beep goes off.
+  sensorValue = analogRead(analogInPin);
+  outputValue = map(sensorValue, 0, 1053, 0, 255);
+  analogWrite(analogOutPin, outputValue);
+  Serial.print("sensor = ");
+  Serial.print(sensorValue);
+  Serial.print("\t output = ");
+  Serial.println(outputValue);  
+  }
+  else if(temp<28){
+  setColor(0, 0, 255);  // blue
+  noTone(piezoPin);
+  }
 ```
 
 ### This device can be used for emergency situations where high temperatures can be a danger. It does have a function like a smoke detector. However, instead of smoke, it will detect the temperature. ###
